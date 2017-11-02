@@ -113,20 +113,20 @@ individual insured level:
 
 1.  Elimination of specific covered services including the "Ten Essential Services"
 covered under ACA (Affordable Care Act / Obamacare):
-  1.  Ambulatory Patient Services (Outpatient Care);
-  2.  Emergency Services (Trips to Emergency Room);
-  3.  Hospitalization (Inpatient Care);
-  4.  Maternity and Newborn Care;
-  5.  Mental Health Services and Addiction Care (The National Institute of
+       1.  Ambulatory Patient Services (Outpatient Care);
+       2.  Emergency Services (Trips to Emergency Room);
+       3.  Hospitalization (Inpatient Care);
+       4.  Maternity and Newborn Care;
+       5.  Mental Health Services and Addiction Care (The National Institute of
     Mental Health estimates that 25% of the US population has a diagnosable
     mental illness and at least 10% are taking anti-depressants.
     The current opioid epidemic is well documented.);
-  6. Prescription Drugs;
-  7. Rehabilitative Services and Devices;
-  8. Laboratory Services;
-  9. Preventive Healthcare, Wellness and Chronic Disease Treatment;
+       6. Prescription Drugs;
+       7. Rehabilitative Services and Devices;
+       8. Laboratory Services;
+       9. Preventive Healthcare, Wellness and Chronic Disease Treatment;
 and,
-  10. Pediatric Services.
+       10. Pediatric Services.
 
 2.  Increase of risk borne by the insured through increased copays, deductibles
 and self-insured services;
