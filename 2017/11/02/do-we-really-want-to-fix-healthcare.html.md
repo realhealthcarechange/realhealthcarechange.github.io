@@ -117,10 +117,7 @@ covered under ACA (Affordable Care Act / Obamacare):
        2.  Emergency Services (Trips to Emergency Room);
        3.  Hospitalization (Inpatient Care);
        4.  Maternity and Newborn Care;
-       5.  Mental Health Services and Addiction Care (The National Institute of
-    Mental Health estimates that 25% of the US population has a diagnosable
-    mental illness and at least 10% are taking anti-depressants.
-    The current opioid epidemic is well documented.);
+       5.  Mental Health Services and Addiction Care (The National Institute of Mental Health estimates that 25% of the US population has a diagnosable mental illness and at least 10% are taking anti-depressants.  The current opioid epidemic is well documented.);
        6. Prescription Drugs;
        7. Rehabilitative Services and Devices;
        8. Laboratory Services;
