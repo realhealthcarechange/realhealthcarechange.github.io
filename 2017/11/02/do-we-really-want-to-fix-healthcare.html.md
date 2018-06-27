@@ -133,7 +133,7 @@ existing conditions;
 5.  Taking a portfolio approach to risk by insuring groups comprised of high- and
 low-risk individuals (such as the ACA Individual Mandate); and / or,
 6.  Entering into reinsurance programs to cap potential claims / losses.
-reinsurance, unless government backed, would probably not have a dramatic
+Reinsurance, unless government backed, would probably not have a dramatic
 effect on overall health insurance premiums since both the primary and re-
 insurer would be evaluating and pricing the same risks.
 
